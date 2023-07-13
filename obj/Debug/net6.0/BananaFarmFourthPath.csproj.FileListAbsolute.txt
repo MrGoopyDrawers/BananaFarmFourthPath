@@ -1,0 +1,12 @@
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\bin\Debug\net6.0\BananaFarmFourthPath.deps.json
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\bin\Debug\net6.0\BananaFarmFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\bin\Debug\net6.0\PathsPlusPlus.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.csproj.AssemblyReference.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.AssemblyInfoInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.AssemblyInfo.cs
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.csproj.CoreCompileInputs.cache
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.csproj.CopyComplete
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\BananaFarmFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\refint\BananaFarmFourthPath.dll
+C:\Users\pauls\Documents\BTD6 Mod Sources\BananaFarmFourthPath\obj\Debug\net6.0\ref\BananaFarmFourthPath.dll

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>BananaFarmFourthPath</RootNamespace>
+        <Configurations>Debug;Release</Configurations>
+        <Nullable>enable</Nullable>
+        <AssemblyName>BananaFarmFourthPath</AssemblyName>
+        <LangVersion>latest</LangVersion>
+        <Optimize>False</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+    <Import Project="..\btd6.targets" />
+    <ItemGroup>
+      <None Remove="Icon.png" />
+    </ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="PathsPlusPlus">
+			<HintPath>$(BloonsTD6)\Mods\PathsPlusPlus.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>
